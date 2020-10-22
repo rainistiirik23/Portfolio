@@ -1,5 +1,5 @@
-# Portfolio
-## Mis me tegime oma tiimiga
+# Portfolio muudatus
+## Mis me tegime oma tiimiga 
 
 Esimesel päeval me tutvusime üksteisega,tegime vajalikud kontod,et suhelda üksteisega ja tegime konspekti tunniplaani jaoks
 
